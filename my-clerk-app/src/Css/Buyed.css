@@ -1,0 +1,120 @@
+/* Base layout */
+.movie-page {
+    background-color: #121212;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 0;
+    margin: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background:
+        radial-gradient(circle at top right, #8b0000 0%, transparent 40%),
+        radial-gradient(circle at 400px 50%, #8b0000 0%, transparent 30%),
+        #000000;
+    color: white;
+    min-height: 100vh;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+        rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 2rem;
+    color: #ff3c3c;
+}
+
+.logo-accent {
+    background: linear-gradient(to right, #ff3c3c, #ff0000);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.nav-links p {
+    display: inline-block;
+    margin: 0 15px;
+    cursor: pointer;
+    font-weight: 500;
+    color: #ccc;
+}
+
+.auth-buttons button {
+    background-color: #ff3c3c;
+    color: white;
+    border: none;
+    padding: 8px 14px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* Booking heading */
+.booking-heading {
+    margin-top: 120px;
+    font-size: 1.8rem;
+    color: #ff3c3c;
+}
+
+/* Booking card */
+.booking-card {
+    display: flex;
+    background-color: rgba(77, 25, 36, 1);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 40px auto;
+    width: 80%;
+    max-width: 700px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+        rgba(0, 0, 0, 0.12) 0px -12px 30px,
+        rgba(0, 0, 0, 0.12) 0px 4px 6px,
+        rgba(0, 0, 0, 0.17) 0px 12px 13px,
+        rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: block;
+}
+
+/* Image */
+.booking-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+/* Info */
+.booking-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.booking-title {
+    font-size: 1.4rem;
+    color: #ff3c3c;
+    margin-bottom: 10px;
+}
+
+.booking-duration,
+.booking-time,
+.booking-cost,
+.booking-tickets,
+.booking-seats {
+    font-size: 0.95rem;
+    margin: 4px 0;
+}

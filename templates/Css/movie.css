@@ -1,0 +1,98 @@
+/* ===== Global Styles ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  background:
+    radial-gradient(circle at top right, #8b0000 0%, transparent 40%),
+    radial-gradient(circle at 4px 0%, #8b0000 0%, transparent 30%),
+    #000000;
+  color: white;
+  overflow-x: hidden; /* prevent horizontal overflow */
+  min-height: 100vh;
+}
+
+/* ===== Movie Page Container ===== */
+.movie-page {
+  padding-top: 100px; /* space for fixed header */
+}
+
+/* ===== Header ===== */
+.main {
+  display: flex;
+  justify-content: space-between; /* space between logo, nav, and buttons */
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  padding: 0 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  flex-wrap: wrap; /* wrap on small screens */
+}
+
+.main-header {
+  color: white;
+  font-size: 28px;
+  flex-shrink: 0;
+}
+
+.main-single {
+  color: red;
+}
+
+.main-para {
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  flex-wrap: wrap; /* nav wraps on small screens */
+}
+
+.main-para p {
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Search Icon */
+.new-class {
+  font-size: 20px;
+  color: white;
+  margin-right: 120px;
+}
+
+.Seat-booking {
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 250px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+}
+
+.time0{
+  font-size: 17px;
+  color: white;
+  position: absolute;
+  top: 10px;
+  left: 60px;
+}
+.login{
+    position: absolute;
+    left: 1290px;
+    top: 30px;
+}
+.sign{
+     position: absolute;
+    left: 1390px;
+    top: 30px;
+}
+

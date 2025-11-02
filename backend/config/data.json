@@ -1,0 +1,2052 @@
+[
+  {
+    "title": "Weapons",
+    "image": "/Images/weapon.jpg",
+    "releaseDate": "2025-09-12",
+    "rating": "7.4",
+    "story": "A suspenseful action-thriller about a rogue arms dealer who threatens global stability. A young agent must uncover his deadly network before war breaks out. Twists, betrayals, and intense combat drive the narrative.",
+    "movieDetails": "Directed by John Doe. Stars Chris Evans and Ana de Armas. Runtime: 2h 15m, Genre: Action/Thriller.",
+    "characters": [
+      {
+        "name": "Agent Blake",
+        "image": "/Images/characters/agent.webp"
+      },
+      {
+        "name": "Rogue Dealer",
+        "image": "/Images/characters/rogue_dealer.jpg"
+      },
+      {
+        "name": "Maya",
+        "image": "/Images/characters/maya.jpg"
+      },
+      {
+        "name": "Director Kane",
+        "image": "/Images/characters/director_kane.jpg"
+      },
+      {
+        "name": "Hacker Finn",
+        "image": "/Images/characters/hacker_finn.jpg"
+      },
+      {
+        "name": "Soldier Rex",
+        "image": "/Images/characters/soldier_rex.jpg"
+      },
+      {
+        "name": "Agent Lee",
+        "image": "/Images/characters/agent_lee.jpg"
+      },
+      {
+        "name": "Scientist Ray",
+        "image": "/Images/characters/scientist_ray.jpg"
+      },
+      {
+        "name": "Informer Ivy",
+        "image": "/Images/characters/informer_ivy.jpg"
+      },
+      {
+        "name": "Driver Max",
+        "image": "/Images/characters/driver_max.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mission: Impossible - The Final Reckoning",
+    "image": "/Images/2.jpg",
+    "releaseDate": "2025-07-10",
+    "rating": "8.1",
+    "story": "Ethan Hunt faces his most dangerous mission yet as a global conspiracy threatens humanity. Old allies return while new enemies rise. The clock is ticking in this high-octane finale.",
+    "movieDetails": "Directed by Christopher McQuarrie. Stars Tom Cruise, Rebecca Ferguson, Hayley Atwell. Runtime: 2h 30m, Genre: Action/Spy.",
+    "characters": [
+      {
+        "name": "Ethan Hunt",
+        "image": "/Images/characters/ethan_hunt.jpg"
+      },
+      {
+        "name": "Ilsa Faust",
+        "image": "/Images/characters/ilsa_faust.jpg"
+      },
+      {
+        "name": "Benji Dunn",
+        "image": "/Images/characters/benji_dunn.jpg"
+      },
+      {
+        "name": "Luther Stickell",
+        "image": "/Images/characters/luther_stickell.jpg"
+      },
+      {
+        "name": "New Villain",
+        "image": "/Images/characters/new_villain.jpg"
+      },
+      {
+        "name": "Agent Carter",
+        "image": "/Images/characters/agent_carter.jpg"
+      },
+      {
+        "name": "Tech Specialist",
+        "image": "/Images/characters/tech_specialist.jpg"
+      },
+      {
+        "name": "Spy Recruit",
+        "image": "/Images/characters/spy_recruit.jpg"
+      },
+      {
+        "name": "Double Agent",
+        "image": "/Images/characters/double_agent.jpg"
+      },
+      {
+        "name": "Field Operative",
+        "image": "/Images/characters/field_operative.jpg"
+      }
+    ]
+  },
+  {
+    "title": "F1: The Movie",
+    "image": "/Images/3.webp",
+    "releaseDate": "2025-06-20",
+    "rating": "7.2",
+    "story": "An underdog driver fights for glory on the world’s fastest tracks. With speed, rivalries, and passion, the story captures the spirit of Formula 1. Every race is a battle for survival and victory.",
+    "movieDetails": "Directed by Joseph Kosinski. Stars Miles Teller and Daniel Brühl. Runtime: 2h 10m, Genre: Sports/Drama.",
+    "characters": [
+      {
+        "name": "Max Rivera",
+        "image": "/Images/characters/max_rivera.jpg"
+      },
+      {
+        "name": "Lucas Vega",
+        "image": "/Images/characters/lucas_vega.jpg"
+      },
+      {
+        "name": "Team Principal",
+        "image": "/Images/characters/team_principal.jpg"
+      },
+      {
+        "name": "Mechanic Joe",
+        "image": "/Images/characters/mechanic_joe.jpg"
+      },
+      {
+        "name": "Rival Driver",
+        "image": "/Images/characters/rival_driver.jpg"
+      },
+      {
+        "name": "Engineer Sam",
+        "image": "/Images/characters/engineer_sam.jpg"
+      },
+      {
+        "name": "Pit Crew Max",
+        "image": "/Images/characters/pit_crew_max.jpg"
+      },
+      {
+        "name": "Fan Anna",
+        "image": "/Images/characters/fan_anna.jpg"
+      },
+      {
+        "name": "Sponsor Leo",
+        "image": "/Images/characters/sponsor_leo.jpg"
+      },
+      {
+        "name": "Reporter Kate",
+        "image": "/Images/characters/reporter_kate.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "image": "/Images/4.jpg",
+    "releaseDate": "2025-09-05",
+    "rating": "6.9",
+    "story": "Ed and Lorraine Warren confront blackheir darkesblackpanther haunting yet. A cursed church unleashes malevolent forces that defy faith. Their final case pushes them to the edge of horror.",
+    "movieDetails": "Directed by Michael Chaves. Stars Patrick Wilson and Vera Farmiga. Runtime: 2h 5m, Genre: Horror/Supernatural.",
+    "characters": [
+      {
+        "name": "Ed Warren",
+        "image": "/Images/characters/ed_warren.jpg"
+      },
+      {
+        "name": "Lorraine Warren",
+        "image": "/Images/characters/lorraine_warren.jpg"
+      },
+      {
+        "name": "Parish Priest",
+        "image": "/Images/characters/parish_priest.jpg"
+      },
+      {
+        "name": "Haunted Child",
+        "image": "/Images/characters/haunted_child.jpg"
+      },
+      {
+        "name": "Detective Clark",
+        "image": "/Images/characters/detective_clark.jpg"
+      },
+      {
+        "name": "Villager Tom",
+        "image": "/Images/characters/villager_tom.jpg"
+      },
+      {
+        "name": "Demon Spirit",
+        "image": "/Images/characters/demon_spirit.jpg"
+      },
+      {
+        "name": "Historian Lucy",
+        "image": "/Images/characters/historian_lucy.jpg"
+      },
+      {
+        "name": "Neighbor Anne",
+        "image": "/Images/characters/neighbor_anne.jpg"
+      },
+      {
+        "name": "Exorcist Paul",
+        "image": "/Images/characters/exorcist_paul.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Naked Gun (2025)",
+    "image": "/Images/5.avif",
+    "releaseDate": "2025-08-15",
+    "rating": "7.8",
+    "story": "Detective Frank Drebin returns with hilarious antics and absurd crime-solving skills. This reboot combines slapstick humor with modern chaos. Expect wild chases, dumb luck, and endless laughter.",
+    "movieDetails": "Directed by Akiva Schaffer. Stars Liam Neeson and Pamela Anderson. Runtime: 1h 50m, Genre: Comedy/Action.",
+    "characters": [
+      {
+        "name": "Frank Drebin",
+        "image": "/Images/characters/frank_drebin.jpg"
+      },
+      {
+        "name": "Jane Spencer",
+        "image": "/Images/characters/jane_spencer.jpg"
+      },
+      {
+        "name": "Captain Ed",
+        "image": "/Images/characters/captain_ed.jpg"
+      },
+      {
+        "name": "Sergeant Lou",
+        "image": "/Images/characters/sergeant_lou.jpg"
+      },
+      {
+        "name": "Villain Bob",
+        "image": "/Images/characters/villain_bob.jpg"
+      },
+      {
+        "name": "Reporter Cindy",
+        "image": "/Images/characters/reporter_cindy.jpg"
+      },
+      {
+        "name": "Witness Tom",
+        "image": "/Images/characters/witness_tom.jpg"
+      },
+      {
+        "name": "Neighbor Ann",
+        "image": "/Images/characters/neighbor_ann.jpg"
+      },
+      {
+        "name": "Judge Roy",
+        "image": "/Images/characters/judge_roy.jpg"
+      },
+      {
+        "name": "Taxi Driver",
+        "image": "/Images/characters/taxi_driver.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "image": "/Images/weapon.jpg",
+    "releaseDate": "2025-05-02",
+    "rating": "8.5",
+    "story": "Earth’s Mightiest Heroes face a cosmic threat that could erase reality itself. Old and new Avengers must unite against impossible odds. A climactic battle tests loyalty, sacrifice, and destiny.",
+    "movieDetails": "Directed by Destin Daniel Cretton. Stars Robert Downey Jr., Chris Hemsworth, Brie Larson. Runtime: 2h 40m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Iron Man",
+        "image": "/Images/characters/iron_man.jpg"
+      },
+      {
+        "name": "Captain America",
+        "image": "/Images/characters/captain_america.jpg"
+      },
+      {
+        "name": "Thor",
+        "image": "/Images/characters/thor.jpg"
+      },
+      {
+        "name": "Black Widow",
+        "image": "/Images/characters/black_widow.jpg"
+      },
+      {
+        "name": "Hulk",
+        "image": "/Images/characters/hulk.jpg"
+      },
+      {
+        "name": "Captain Marvel",
+        "image": "/Images/characters/captain_marvel.jpg"
+      },
+      {
+        "name": "Hawkeye",
+        "image": "/Images/characters/hawkeye.jpg"
+      },
+      {
+        "name": "Doctor Strange",
+        "image": "/Images/characters/doctor_strange.jpg"
+      },
+      {
+        "name": "Spider-Man",
+        "image": "/Images/characters/spider_man.jpg"
+      },
+      {
+        "name": "Villain Doom",
+        "image": "/Images/characters/villain_doom.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Avatar 3",
+    "image": "/Images/6.jpg",
+    "releaseDate": "2025-12-19",
+    "rating": "8.3",
+    "story": "Jake Sully and Neytiri face new dangers as Pandora is threatened again. Ancient tribes reveal secrets hidden beneath the oceans. An epic continuation of love, war, and survival.",
+    "movieDetails": "Directed by James Cameron. Stars Sam Worthington, Zoe Saldana, Kate Winslet. Runtime: 3h 5m, Genre: Sci-Fi/Adventure.",
+    "characters": [
+      {
+        "name": "Jake Sully",
+        "image": "/Images/characters/jake_sully.jpg"
+      },
+      {
+        "name": "Neytiri",
+        "image": "/Images/characters/neytiri.jpg"
+      },
+      {
+        "name": "Dr. Grace",
+        "image": "/Images/characters/dr_grace.jpg"
+      },
+      {
+        "name": "Tribal Leader",
+        "image": "/Images/characters/tribal_leader.jpg"
+      },
+      {
+        "name": "RDA Officer",
+        "image": "/Images/characters/rda_officer.jpg"
+      },
+      {
+        "name": "Tsu'tey",
+        "image": "/Images/characters/tsutey.jpg"
+      },
+      {
+        "name": "Ocean Spirit",
+        "image": "/Images/characters/ocean_spirit.jpg"
+      },
+      {
+        "name": "Young Avatar",
+        "image": "/Images/characters/young_avatar.jpg"
+      },
+      {
+        "name": "Warrior Kiri",
+        "image": "/Images/characters/warrior_kiri.jpg"
+      },
+      {
+        "name": "Navigator Lex",
+        "image": "/Images/characters/navigator_lex.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Deadpool & Wolverine 2",
+    "image": "/Images/7.jpg",
+    "releaseDate": "2025-11-07",
+    "rating": "8.0",
+    "story": "Deadpool and Wolverine return for a chaotic, hilarious, and violent adventure. They break the multiverse with sarcastic banter and brutal battles. Expect nonstop action and fourth-wall comedy.",
+    "movieDetails": "Directed by Shawn Levy. Stars Ryan Reynolds and Hugh Jackman. Runtime: 2h 20m, Genre: Action/Comedy.",
+    "characters": [
+      {
+        "name": "Deadpool",
+        "image": "/Images/characters/deadpool.jpg"
+      },
+      {
+        "name": "Wolverine",
+        "image": "/Images/characters/wolverine.jpg"
+      },
+      {
+        "name": "Negasonic",
+        "image": "/Images/characters/negasonic.jpg"
+      },
+      {
+        "name": "Cable",
+        "image": "/Images/characters/cable.jpg"
+      },
+      {
+        "name": "Weasel",
+        "image": "/Images/characters/weasel.jpg"
+      },
+      {
+        "name": "Villain Omega",
+        "image": "/Images/characters/villain_omega.jpg"
+      },
+      {
+        "name": "Agent Smith",
+        "image": "/Images/characters/agent_smith.jpg"
+      },
+      {
+        "name": "Mercenary Rex",
+        "image": "/Images/characters/mercenary_rex.jpg"
+      },
+      {
+        "name": "Scientist Elle",
+        "image": "/Images/characters/scientist_elle.jpg"
+      },
+      {
+        "name": "Henchman Joe",
+        "image": "/Images/characters/henchman_joe.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Shrek 5",
+    "image": "/Images/8.jpg",
+    "releaseDate": "2025-07-18",
+    "rating": "7.5",
+    "story": "Shrek is pulled out of retirement when Far Far Away faces new magical chaos. Alongside Donkey and Fiona, he embarks on a wild, comedic quest. Family, friendship, and ogre-sized laughs await.",
+    "movieDetails": "Directed by Walt Dohrn. Voices of Mike Myers, Eddie Murphy, Cameron Diaz. Runtime: 1h 45m, Genre: Animation/Comedy.",
+    "characters": [
+      {
+        "name": "Shrek",
+        "image": "/Images/characters/shrek.jpg"
+      },
+      {
+        "name": "Donkey",
+        "image": "/Images/characters/donkey.jpg"
+      },
+      {
+        "name": "Fiona",
+        "image": "/Images/characters/fiona.jpg"
+      },
+      {
+        "name": "Puss",
+        "image": "/Images/characters/puss.jpg"
+      },
+      {
+        "name": "Dragon",
+        "image": "/Images/characters/dragon.jpg"
+      },
+      {
+        "name": "Gingy",
+        "image": "/Images/characters/gingy.jpg"
+      },
+      {
+        "name": "Pinocchio",
+        "image": "/Images/characters/pinocchio.jpg"
+      },
+      {
+        "name": "Fairy Godmother",
+        "image": "/Images/characters/fairy_godmother.jpg"
+      },
+      {
+        "name": "Lord Farquaad",
+        "image": "/Images/characters/lord_farquaad.jpg"
+      },
+      {
+        "name": "King Harold",
+        "image": "/Images/characters/king_harold.jpg"
+      }
+    ]
+  },
+  {
+    "title": "How to Train Your Dragon (Live Action)",
+    "image": "/Images/9.jpg",
+    "releaseDate": "2025-06-13",
+    "rating": "7.6",
+    "story": "A live-action retelling of Hiccup and Toothless’ legendary bond. Vikings learn to coexist with dragons in an emotional, epic journey. Heart, spectacle, and adventure bring the classic to life.",
+    "movieDetails": "Directed by Dean DeBlois. Stars Mason Thames and Nico Parker. Runtime: 2h 10m, Genre: Adventure/Fantasy.",
+    "characters": [
+      {
+        "name": "Hiccup",
+        "image": "/Images/characters/hiccup.jpg"
+      },
+      {
+        "name": "Toothless",
+        "image": "/Images/characters/toothless.jpg"
+      },
+      {
+        "name": "Astrid",
+        "image": "/Images/characters/astrid.jpg"
+      },
+      {
+        "name": "Stoick",
+        "image": "/Images/characters/stoick.jpg"
+      },
+      {
+        "name": "Gobber",
+        "image": "/Images/characters/gobber.jpg"
+      },
+      {
+        "name": "Ruffnut",
+        "image": "/Images/characters/ruffnut.jpg"
+      },
+      {
+        "name": "Tuffnut",
+        "image": "/Images/characters/tuffnut.jpg"
+      },
+      {
+        "name": "Valka",
+        "image": "/Images/characters/valka.jpg"
+      },
+      {
+        "name": "Snotlout",
+        "image": "/Images/characters/snotlout.jpg"
+      },
+      {
+        "name": "Fishlegs",
+        "image": "/Images/characters/fishlegs.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Frozen 3",
+    "image": "/Images/10.jpg",
+    "releaseDate": "2025-11-21",
+    "rating": "7.9",
+    "story": "Elsa and Anna face a mysterious new power that threatens Arendelle. Secrets of their family’s past unfold as they embark on a magical quest. Love and courage guide their kingdom’s future.",
+    "movieDetails": "Directed by Jennifer Lee. Voices of Idina Menzel, Kristen Bell, Josh Gad. Runtime: 1h 55m, Genre: Animation/Fantasy.",
+    "characters": [
+      {
+        "name": "Elsa",
+        "image": "/Images/characters/elsa.jpg"
+      },
+      {
+        "name": "Anna",
+        "image": "/Images/characters/anna.jpg"
+      },
+      {
+        "name": "Kristoff",
+        "image": "/Images/characters/kristoff.jpg"
+      },
+      {
+        "name": "Olaf",
+        "image": "/Images/characters/olaf.jpg"
+      },
+      {
+        "name": "Sven",
+        "image": "/Images/characters/sven.jpg"
+      },
+      {
+        "name": "Queen Iduna",
+        "image": "/Images/characters/queen_iduna.jpg"
+      },
+      {
+        "name": "King Agnarr",
+        "image": "/Images/characters/king_agnarr.jpg"
+      },
+      {
+        "name": "New Villager",
+        "image": "/Images/characters/new_villager.jpg"
+      },
+      {
+        "name": "Sorceress",
+        "image": "/Images/characters/sorceress.jpg"
+      },
+      {
+        "name": "Messenger Kai",
+        "image": "/Images/characters/messenger_kai"
+      }
+    ]
+  },
+  {
+    "title": "Zootopia 2",
+    "image": "/Images/11.avif",
+    "releaseDate": "2025-11-26",
+    "rating": "8.1",
+    "story": "Judy Hopps and Nick Wilde return to crack a case that shakes Zootopia’s harmony. A new wave of predators threatens unity. Their friendship and courage are tested in a thrilling sequel.",
+    "movieDetails": "Directed by Byron Howard and Rich Moore. Voices of Ginnifer Goodwin, Jason Bateman. Runtime: 2h 0m, Genre: Animation/Adventure.",
+    "characters": [
+      {
+        "name": "Judy",
+        "image": "/Images/characters/judy.jpg"
+      },
+      {
+        "name": "Nick",
+        "image": "/Images/characters/nick.jpg"
+      },
+      {
+        "name": "Chief Bogo",
+        "image": "/Images/characters/chief_bogo.jpg"
+      },
+      {
+        "name": "Bellwether",
+        "image": "/Images/characters/bellwether.jpg"
+      },
+      {
+        "name": "Flash",
+        "image": "/Images/characters/flash.jpg"
+      },
+      {
+        "name": "Clawhauser",
+        "image": "/Images/characters/clawhauser.jpg"
+      },
+      {
+        "name": "Gazelle",
+        "image": "/Images/characters/gazelle.jpg"
+      },
+      {
+        "name": "Finnick",
+        "image": "/Images/characters/finnick.jpg"
+      },
+      {
+        "name": "Yax",
+        "image": "/Images/characters/yax.jpg"
+      },
+      {
+        "name": "Fennec",
+        "image": "/Images/characters/fennec.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Sonic the Hedgehog 3",
+    "image": "/Images/12.jpg",
+    "releaseDate": "2025-12-20",
+    "rating": "7.7",
+    "story": "Sonic teams up with his friends to face a new powerful foe. Chaos Emeralds and dangerous enemies test their speed and courage. A fun mix of action, comedy, and adventure awaits fans.",
+    "movieDetails": "Directed by Jeff Fowler. Stars Ben Schwartz, Idris Elba, Jim Carrey. Runtime: 2h 0m, Genre: Action/Adventure.",
+    "characters": [
+      {
+        "name": "Sonic",
+        "image": "/Images/characters/sonic.jpg"
+      },
+      {
+        "name": "Tails",
+        "image": "/Images/characters/tails.jpg"
+      },
+      {
+        "name": "Knuckles",
+        "image": "/Images/characters/knuckles.jpg"
+      },
+      {
+        "name": "Dr. Eggman",
+        "image": "/Images/characters/dr_eggman.jpg"
+      },
+      {
+        "name": "Amy",
+        "image": "/Images/characters/amy.jpg"
+      },
+      {
+        "name": "Shadow",
+        "image": "/Images/characters/shadow.jpg"
+      },
+      {
+        "name": "Rouge",
+        "image": "/Images/characters/rouge.jpg"
+      },
+      {
+        "name": "Silver",
+        "image": "/Images/characters/silver.jpg"
+      },
+      {
+        "name": "Omega",
+        "image": "/Images/characters/omega.jpg"
+      },
+      {
+        "name": "Charmy",
+        "image": "/Images/characters/charmy.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Spider-Man: Beyond the Spider-Verse",
+    "image": "/Images/13.jpg",
+    "releaseDate": "2025-03-14",
+    "rating": "8.9",
+    "story": "Miles Morales ventures into uncharted dimensions to save his friends. He faces alternate Spider-heroes and an unstoppable villain. A visually stunning and emotional finale to the trilogy.",
+    "movieDetails": "Directed by Joaquim Dos Santos. Voices of Shameik Moore, Hailee Steinfeld, Oscar Isaac. Runtime: 2h 20m, Genre: Animation/Superhero.",
+    "characters": [
+      {
+        "name": "Miles",
+        "image": "/Images/characters/miles.jpg"
+      },
+      {
+        "name": "Peter B",
+        "image": "/Images/characters/peter_b.jpg"
+      },
+      {
+        "name": "Gwen",
+        "image": "/Images/characters/gwen.jpg"
+      },
+      {
+        "name": "Spider-Man 2099",
+        "image": "/Images/characters/spiderman2099.jpg"
+      },
+      {
+        "name": "Peni Parker",
+        "image": "/Images/characters/peni_parker.jpg"
+      },
+      {
+        "name": "Spider-Ham",
+        "image": "/Images/characters/spider_ham.jpg"
+      },
+      {
+        "name": "Villain Kingpin",
+        "image": "/Images/characters/villain_kingpin.jpg"
+      },
+      {
+        "name": "Doc Ock",
+        "image": "/Images/characters/doc_ock.jpg"
+      },
+      {
+        "name": "MJ",
+        "image": "/Images/characters/mj.jpg"
+      },
+      {
+        "name": "Spider-Man Noir",
+        "image": "/Images/characters/spiderman_noir.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Batman Part II",
+    "image": "/Images/14.webp",
+    "releaseDate": "2025-10-03",
+    "rating": "8.4",
+    "story": "Batman faces a darker Gotham as new villains rise. With allies in danger, Bruce must balance vengeance and justice. A gritty continuation of the caped crusader’s saga.",
+    "movieDetails": "Directed by Matt Reeves. Stars Robert Pattinson, Zoë Kravitz. Runtime: 2h 40m, Genre: Action/Crime.",
+    "characters": [
+      {
+        "name": "Batman",
+        "image": "/Images/characters/batman.jpg"
+      },
+      {
+        "name": "Catwoman",
+        "image": "/Images/characters/catwoman.jpg"
+      },
+      {
+        "name": "Penguin",
+        "image": "/Images/characters/penguin.jpg"
+      },
+      {
+        "name": "Riddler",
+        "image": "/Images/characters/riddler.jpg"
+      },
+      {
+        "name": "Alfred",
+        "image": "/Images/characters/alfred.jpg"
+      },
+      {
+        "name": "Commissioner",
+        "image": "/Images/characters/commissioner.jpg"
+      },
+      {
+        "name": "Lucius Fox",
+        "image": "/Images/characters/lucius_fox.jpg"
+      },
+      {
+        "name": "Orphan Dick",
+        "image": "/Images/characters/orphan_dick.jpg"
+      },
+      {
+        "name": "Batgirl",
+        "image": "/Images/characters/batgirl.jpg"
+      },
+      {
+        "name": "Henchman Joe",
+        "image": "/Images/characters/henchman_joe.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Superman: Legacy",
+    "image": "/Images/15.jpg",
+    "releaseDate": "2025-07-11",
+    "rating": "8.2",
+    "story": "Clark Kent struggles to balance his Kryptonian heritage with his human life. A fresh beginning for the Man of Steel unfolds. Hope, courage, and legacy define this new chapter.",
+    "movieDetails": "Directed by James Gunn. Stars David Corenswet and Rachel Brosnahan. Runtime: 2h 25m, Genre: Superhero/Drama.",
+    "characters": [
+      {
+        "name": "Superman",
+        "image": "/Images/characters/superman.jpg"
+      },
+      {
+        "name": "Lois Lane",
+        "image": "/Images/characters/lois_lane.jpg"
+      },
+      {
+        "name": "Jonathan Kent",
+        "image": "/Images/characters/jonathan_kent.jpg"
+      },
+      {
+        "name": "Martha Kent",
+        "image": "/Images/characters/martha_kent.jpg"
+      },
+      {
+        "name": "Villain Zod",
+        "image": "/Images/characters/villain_zod.jpg"
+      },
+      {
+        "name": "Jimmy Olsen",
+        "image": "/Images/characters/jimmy_olsen.jpg"
+      },
+      {
+        "name": "Perry White",
+        "image": "/Images/characters/perry_white.jpg"
+      },
+      {
+        "name": "Kryptonian Ally",
+        "image": "/Images/characters/kryptonian_ally.jpg"
+      },
+      {
+        "name": "General Swanwick",
+        "image": "/Images/characters/general_swanwick.jpg"
+      },
+      {
+        "name": "Heroine Lara",
+        "image": "/Images/characters/heroine_lara.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Inside Out 2",
+    "image": "/Images/16.jpg",
+    "releaseDate": "2025-06-14",
+    "rating": "8.0",
+    "story": "Riley enters teenage years with new emotions in her mind. Joy, Sadness, and others must adapt to a bigger emotional world. A heartfelt, funny journey into growing up.",
+    "movieDetails": "Directed by Kelsey Mann. Voices of Amy Poehler, Phyllis Smith, Maya Hawke. Runtime: 1h 50m, Genre: Animation/Family.",
+    "characters": [
+      {
+        "name": "Joy",
+        "image": "/Images/characters/joy.jpg"
+      },
+      {
+        "name": "Sadness",
+        "image": "/Images/characters/sadness.jpg"
+      },
+      {
+        "name": "Anger",
+        "image": "/Images/characters/anger.jpg"
+      },
+      {
+        "name": "Fear",
+        "image": "/Images/characters/fear.jpg"
+      },
+      {
+        "name": "Disgust",
+        "image": "/Images/characters/disgust.jpg"
+      },
+      {
+        "name": "Riley",
+        "image": "/Images/characters/riley.jpg"
+      },
+      {
+        "name": "New Emotion1",
+        "image": "/Images/characters/new_emotion1.jpg"
+      },
+      {
+        "name": "New Emotion2",
+        "image": "/Images/characters/new_emotion2.jpg"
+      },
+      {
+        "name": "Mom",
+        "image": "/Images/characters/mom.jpg"
+      },
+      {
+        "name": "Dad",
+        "image": "/Images/characters/dad.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "image": "/Images/17.jpg",
+    "releaseDate": "2025-03-28",
+    "rating": "7.6",
+    "story": "Po trains a new Dragon Warrior while facing a cunning sorceress. His legacy and kung fu mastery are tested once again. Comedy and action return in this epic sequel.",
+    "movieDetails": "Directed by Mike Mitchell. Voices of Jack Black, Awkwafina, Bryan Cranston. Runtime: 1h 55m, Genre: Animation/Adventure.",
+    "characters": [
+      {
+        "name": "Po",
+        "image": "/Images/characters/po.jpg"
+      },
+      {
+        "name": "Tigress",
+        "image": "/Images/characters/tigress.jpg"
+      },
+      {
+        "name": "Monkey",
+        "image": "/Images/characters/monkey.jpg"
+      },
+      {
+        "name": "Mantis",
+        "image": "/Images/characters/mantis.jpg"
+      },
+      {
+        "name": "Viper",
+        "image": "/Images/characters/viper.jpg"
+      },
+      {
+        "name": "Crane",
+        "image": "/Images/characters/crane.jpg"
+      },
+      {
+        "name": "Shifu",
+        "image": "/Images/characters/shifu.jpg"
+      },
+      {
+        "name": "New Warrior",
+        "image": "/Images/characters/new_warrior.jpg"
+      },
+      {
+        "name": "Sorceress",
+        "image": "/Images/characters/sorceress.jpg"
+      },
+      {
+        "name": "Villain Rex",
+        "image": "/Images/characters/villain_rex.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Moana 2",
+    "image": "/Images/18.webp",
+    "releaseDate": "2025-06-27",
+    "rating": "7.9",
+    "story": "Moana sets sail on a new oceanic journey to distant lands. She discovers hidden cultures and faces powerful natural forces. A vibrant tale of courage and exploration.",
+    "movieDetails": "Directed by David Derrick Jr. Voices of Auli’i Cravalho, Dwayne Johnson. Runtime: 2h 0m, Genre: Animation/Adventure.",
+    "characters": [
+      {
+        "name": "Moana",
+        "image": "/Images/characters/moana.jpg"
+      },
+      {
+        "name": "Maui",
+        "image": "/Images/characters/maui.jpg"
+      },
+      {
+        "name": "TeFiti",
+        "image": "/Images/characters/tefiti.jpg"
+      },
+      {
+        "name": "Tamatoa",
+        "image": "/Images/characters/tamatoa.jpg"
+      },
+      {
+        "name": "AllyMax",
+        "image": "/Images/characters/allymax.jpg"
+      },
+      {
+        "name": "FriendLeo",
+        "image": "/Images/characters/friendleo.jpg"
+      },
+      {
+        "name": "VillainKai",
+        "image": "/Images/characters/villainkai.jpg"
+      },
+      {
+        "name": "GuideTim",
+        "image": "/Images/characters/guidetim.jpg"
+      },
+      {
+        "name": "ScoutZoe",
+        "image": "/Images/characters/scoutzoe.jpg"
+      },
+      {
+        "name": "MentorRex",
+        "image": "/Images/characters/mentorrex.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Toy Story 5",
+    "image": "/Images/19.jpg",
+    "releaseDate": "2025-06-20",
+    "rating": "7.3",
+    "story": "Woody, Buzz, and friends reunite for another heartwarming adventure. A new child discovers the true magic of toys. Friendship, love, and laughter shine once more.",
+    "movieDetails": "Directed by Josh Cooley. Voices of Tom Hanks, Tim Allen. Runtime: 1h 55m, Genre: Animation/Family.",
+    "characters": [
+      {
+        "name": "Woody",
+        "image": "/Images/characters/woody.jpg"
+      },
+      {
+        "name": "Buzz",
+        "image": "/Images/characters/buzz.jpg"
+      },
+      {
+        "name": "Jessie",
+        "image": "/Images/characters/jessie.jpg"
+      },
+      {
+        "name": "Bullseye",
+        "image": "/Images/characters/bullseye.jpg"
+      },
+      {
+        "name": "Rex",
+        "image": "/Images/characters/rex.jpg"
+      },
+      {
+        "name": "Hamm",
+        "image": "/Images/characters/hamm.jpg"
+      },
+      {
+        "name": "BoPeep",
+        "image": "/Images/characters/bopeep.jpg"
+      },
+      {
+        "name": "ChildMax",
+        "image": "/Images/characters/childmax.jpg"
+      },
+      {
+        "name": "AllyLeo",
+        "image": "/Images/characters/allyleo.jpg"
+      },
+      {
+        "name": "FriendTim",
+        "image": "/Images/characters/friendtim.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Thor: Ragnarok 2",
+    "image": "/Images/19.jpg",
+    "releaseDate": "2025-11-08",
+    "rating": "8.3",
+    "story": "Thor faces a new cosmic threat alongside old allies and unexpected enemies. The fate of Asgard hangs in the balance. Epic battles, humor, and heart define the journey.",
+    "movieDetails": "Directed by Taika Waititi. Stars Chris Hemsworth, Natalie Portman. Runtime: 2h 30m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Thor",
+        "image": "/Images/characters/thor.jpg"
+      },
+      {
+        "name": "Loki",
+        "image": "/Images/characters/loki.jpg"
+      },
+      {
+        "name": "Jane",
+        "image": "/Images/characters/jane.jpg"
+      },
+      {
+        "name": "Valkyrie",
+        "image": "/Images/characters/valkyrie.jpg"
+      },
+      {
+        "name": "Heimdall",
+        "image": "/Images/characters/heimdall.jpg"
+      },
+      {
+        "name": "Odin",
+        "image": "/Images/characters/odin.jpg"
+      },
+      {
+        "name": "Surtur",
+        "image": "/Images/characters/surtur.jpg"
+      },
+      {
+        "name": "Korg",
+        "image": "/Images/characters/korg.jpg"
+      },
+      {
+        "name": "Miek",
+        "image": "/Images/characters/miek.jpg"
+      },
+      {
+        "name": "Villain Rex",
+        "image": "/Images/characters/villain_rex.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Jurassic World: New Era",
+    "image": "/Images/20.jpg",
+    "releaseDate": "2025-06-12",
+    "rating": "7.8",
+    "story": "Dinosaurs roam freely and chaos ensues. New heroes emerge to protect humanity while uncovering hidden secrets about the prehistoric creatures. Adventure and suspense drive the story.",
+    "movieDetails": "Directed by Colin Trevorrow. Stars Chris Pratt, Bryce Dallas Howard. Runtime: 2h 20m, Genre: Sci-Fi/Adventure.",
+    "characters": [
+      {
+        "name": "Owen",
+        "image": "/Images/characters/owen.jpg"
+      },
+      {
+        "name": "Claire",
+        "image": "/Images/characters/claire.jpg"
+      },
+      {
+        "name": "Zoe",
+        "image": "/Images/characters/zoe.jpg"
+      },
+      {
+        "name": "Villain Rex",
+        "image": "/Images/characters/villain_rex.jpg"
+      },
+      {
+        "name": "Raptor Alpha",
+        "image": "/Images/characters/raptor_alpha.jpg"
+      },
+      {
+        "name": "Dr. Wu",
+        "image": "/Images/characters/dr_wu.jpg"
+      },
+      {
+        "name": "New Dino",
+        "image": "/Images/characters/new_dino.jpg"
+      },
+      {
+        "name": "Tech Scout",
+        "image": "/Images/characters/tech_scout.jpg"
+      },
+      {
+        "name": "Guard Max",
+        "image": "/Images/characters/guard_max.jpg"
+      },
+      {
+        "name": "Reporter Lea",
+        "image": "/Images/characters/reporter_lea.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Guardians 4",
+    "image": "/Images/21.jpg",
+    "releaseDate": "2025-08-01",
+    "rating": "8.2",
+    "story": "The Guardians face cosmic threats while protecting the galaxy. New allies join the team, and old enemies return. Humor, action, and heart make the adventure unforgettable.",
+    "movieDetails": "Directed by James Gunn. Stars Chris Pratt, Zoe Saldana. Runtime: 2h 30m, Genre: Superhero/Adventure.",
+    "characters": [
+      {
+        "name": "Star-Lord",
+        "image": "/Images/characters/star_lord.jpg"
+      },
+      {
+        "name": "Gamora",
+        "image": "/Images/characters/gamora.jpg"
+      },
+      {
+        "name": "Drax",
+        "image": "/Images/characters/drax.jpg"
+      },
+      {
+        "name": "Rocket",
+        "image": "/Images/characters/rocket.jpg"
+      },
+      {
+        "name": "Groot",
+        "image": "/Images/characters/groot.jpg"
+      },
+      {
+        "name": "Mantis",
+        "image": "/Images/characters/mantis.jpg"
+      },
+      {
+        "name": "Nebula",
+        "image": "/Images/characters/nebula.jpg"
+      },
+      {
+        "name": "New Hero",
+        "image": "/Images/characters/new_hero.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Cosmo",
+        "image": "/Images/characters/cosmo.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Black Panther: Wakanda Forever 2",
+    "image": "/Images/32.jpg",
+    "releaseDate": "2025-11-12",
+    "rating": "8.4",
+    "story": "Wakanda faces a new global threat while T’Challa’s legacy inspires heroes. Alliances are tested and secrets revealed. A powerful blend of action, culture, and emotion.",
+    "movieDetails": "Directed by Ryan Coogler. Stars Letitia Wright, Lupita Nyong’o. Runtime: 2h 25m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Shuri",
+        "image": "/Images/characters/shuri.jpg"
+      },
+      {
+        "name": "Okoye",
+        "image": "/Images/characters/okoye.jpg"
+      },
+      {
+        "name": "M’Baku",
+        "image": "/Images/characters/mbaku.jpg"
+      },
+      {
+        "name": "Nakia",
+        "image": "/Images/characters/nakia.jpg"
+      },
+      {
+        "name": "Villain Z",
+        "image": "/Images/characters/villain_z.jpg"
+      },
+      {
+        "name": "Queen Ramonda",
+        "image": "/Images/characters/queen_ramonda.jpg"
+      },
+      {
+        "name": "King T’Challa",
+        "image": "/Images/characters/king_tchalla.jpg"
+      },
+      {
+        "name": "Everett Ross",
+        "image": "/Images/characters/everett_ross.jpg"
+      },
+      {
+        "name": "Spy Leah",
+        "image": "/Images/characters/spy_leah.jpg"
+      },
+      {
+        "name": "Warrior Kai",
+        "image": "/Images/characters/warrior_kai.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Doctor Strange 3",
+    "image": "/Images/23.jpg",
+    "releaseDate": "2025-05-15",
+    "rating": "8.6",
+    "story": "Doctor Strange faces a new mystical threat that bends reality. With allies across the multiverse, he fights to restore balance. Mind-bending visuals and high stakes define this chapter.",
+    "movieDetails": "Directed by Sam Raimi. Stars Benedict Cumberbatch, Elizabeth Olsen. Runtime: 2h 20m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Strange",
+        "image": "/Images/characters/strange.jpg"
+      },
+      {
+        "name": "Wanda",
+        "image": "/Images/characters/wanda.jpg"
+      },
+      {
+        "name": "Wong",
+        "image": "/Images/characters/wong.jpg"
+      },
+      {
+        "name": "America",
+        "image": "/Images/characters/america.jpg"
+      },
+      {
+        "name": "Clea",
+        "image": "/Images/characters/clea.jpg"
+      },
+      {
+        "name": "Villain M",
+        "image": "/Images/characters/villain_m.jpg"
+      },
+      {
+        "name": "Sorcerer Kai",
+        "image": "/Images/characters/sorcerer_kai.jpg"
+      },
+      {
+        "name": "Baron Mordo",
+        "image": "/Images/characters/baron_mordo.jpg"
+      },
+      {
+        "name": "Student Tom",
+        "image": "/Images/characters/student_tom.jpg"
+      },
+      {
+        "name": "Ally Mei",
+        "image": "/Images/characters/ally_mei.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Ant-Man 3",
+    "image": "/Images/24.jpg",
+    "releaseDate": "2025-07-25",
+    "rating": "7.9",
+    "story": "Scott Lang returns to face new micro and macro threats. With allies old and new, he navigates dangerous situations while balancing heroics and humor.",
+    "movieDetails": "Directed by Peyton Reed. Stars Paul Rudd, Evangeline Lilly. Runtime: 2h 5m, Genre: Superhero/Comedy.",
+    "characters": [
+      {
+        "name": "Ant-Man",
+        "image": "/Images/characters/antman.jpg"
+      },
+      {
+        "name": "Wasp",
+        "image": "/Images/characters/wasp.jpg"
+      },
+      {
+        "name": "Cassie",
+        "image": "/Images/characters/cassie.jpg"
+      },
+      {
+        "name": "Hank Pym",
+        "image": "/Images/characters/hank_pym.jpg"
+      },
+      {
+        "name": "Hope",
+        "image": "/Images/characters/hope.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Ally Rex",
+        "image": "/Images/characters/ally_rex.jpg"
+      },
+      {
+        "name": "Security Tom",
+        "image": "/Images/characters/security_tom.jpg"
+      },
+      {
+        "name": "Scientist Zoe",
+        "image": "/Images/characters/scientist_zoe.jpg"
+      },
+      {
+        "name": "Driver Max",
+        "image": "/Images/characters/driver_max.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Fantastic 4",
+    "image": "/Images/25.jpg",
+    "releaseDate": "2025-09-10",
+    "rating": "7.8",
+    "story": "The Fantastic Four face an interdimensional threat that could destroy Earth. Their teamwork and powers are tested as they fight to save humanity.",
+    "movieDetails": "Directed by Matt Shakman. Stars John Krasinski, Emily Blunt. Runtime: 2h 15m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Mr. Fant",
+        "image": "/Images/characters/mr_fant.jpg"
+      },
+      {
+        "name": "Invisible W",
+        "image": "/Images/characters/invisible_w.jpg"
+      },
+      {
+        "name": "Human Torch",
+        "image": "/Images/characters/human_torch.jpg"
+      },
+      {
+        "name": "Thing",
+        "image": "/Images/characters/thing.jpg"
+      },
+      {
+        "name": "Villain Doom",
+        "image": "/Images/characters/villain_doom.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Scientist Eva",
+        "image": "/Images/characters/scientist_eva.jpg"
+      },
+      {
+        "name": "Reporter Jim",
+        "image": "/Images/characters/reporter_jim.jpg"
+      },
+      {
+        "name": "Pilot Joe",
+        "image": "/Images/characters/pilot_joe.jpg"
+      },
+      {
+        "name": "Guard Rex",
+        "image": "/Images/characters/guard_rex.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Minions 3",
+    "image": "/Images/26.jpg",
+    "releaseDate": "2025-07-04",
+    "rating": "7.5",
+    "story": "The Minions embark on a global adventure to find a new villain to serve. Comedy, chaos, and colorful antics fill this family-friendly sequel.",
+    "movieDetails": "Directed by Kyle Balda. Voices of Pierre Coffin, Taraji P. Henson. Runtime: 1h 40m, Genre: Animation/Comedy.",
+    "characters": [
+      {
+        "name": "Kevin",
+        "image": "/Images/characters/kevin.jpg"
+      },
+      {
+        "name": "Stuart",
+        "image": "/Images/characters/stuart.jpg"
+      },
+      {
+        "name": "Bob",
+        "image": "/Images/characters/bob.jpg"
+      },
+      {
+        "name": "Otto",
+        "image": "/Images/characters/otto.jpg"
+      },
+      {
+        "name": "Villain Lex",
+        "image": "/Images/characters/villain_lex.jpg"
+      },
+      {
+        "name": "Minion Max",
+        "image": "/Images/characters/minion_max.jpg"
+      },
+      {
+        "name": "Minion Leo",
+        "image": "/Images/characters/minion_leo.jpg"
+      },
+      {
+        "name": "Minion Rex",
+        "image": "/Images/characters/minion_rex.jpg"
+      },
+      {
+        "name": "Minion Kim",
+        "image": "/Images/characters/minion_kim.jpg"
+      },
+      {
+        "name": "Minion Tim",
+        "image": "/Images/characters/minion_tim.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Flash 2",
+    "image": "/Images/27.jpg",
+    "releaseDate": "2025-06-18",
+    "rating": "8.1",
+    "story": "Barry Allen faces a new threat that could rewrite the timeline. Team Flash must stop the villain while navigating time anomalies. Speed, humor, and drama collide in this superhero tale.",
+    "movieDetails": "Directed by Andy Muschietti. Stars Ezra Miller, Michael Keaton. Runtime: 2h 10m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Flash",
+        "image": "/Images/characters/flash.jpg"
+      },
+      {
+        "name": "Kid Flash",
+        "image": "/Images/characters/kid_flash.jpg"
+      },
+      {
+        "name": "Cyborg",
+        "image": "/Images/characters/cyborg.jpg"
+      },
+      {
+        "name": "Supergirl",
+        "image": "/Images/characters/supergirl.jpg"
+      },
+      {
+        "name": "Villain Z",
+        "image": "/Images/characters/villain_z.jpg"
+      },
+      {
+        "name": "Iris",
+        "image": "/Images/characters/iris.jpg"
+      },
+      {
+        "name": "Batman",
+        "image": "/Images/characters/batman.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Tech Guy",
+        "image": "/Images/characters/tech_guy.jpg"
+      },
+      {
+        "name": "Reporter Lea",
+        "image": "/Images/characters/reporter_lea.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Lion King 2",
+    "image": "/Images/28.webp",
+    "releaseDate": "2025-08-22",
+    "rating": "7.7",
+    "story": "Simba faces new challenges in ruling the Pride Lands. A new threat emerges while young lions learn responsibility, courage, and friendship.",
+    "movieDetails": "Directed by Barry Jenkins. Voices of Donald Glover, Beyoncé. Runtime: 1h 50m, Genre: Animation/Adventure.",
+    "characters": [
+      {
+        "name": "Simba",
+        "image": "/Images/characters/simba.jpg"
+      },
+      {
+        "name": "Nala",
+        "image": "/Images/characters/nala.jpg"
+      },
+      {
+        "name": "Timon",
+        "image": "/Images/characters/timon.jpg"
+      },
+      {
+        "name": "Pumbaa",
+        "image": "/Images/characters/pumbaa.jpg"
+      },
+      {
+        "name": "Scar Jr.",
+        "image": "/Images/characters/scar_jr.jpg"
+      },
+      {
+        "name": "Rafiki",
+        "image": "/Images/characters/rafiki.jpg"
+      },
+      {
+        "name": "Zazu",
+        "image": "/Images/characters/zazu.jpg"
+      },
+      {
+        "name": "Kopa",
+        "image": "/Images/characters/kopa.jpg"
+      },
+      {
+        "name": "Kiara",
+        "image": "/Images/characters/kiara.jpg"
+      },
+      {
+        "name": "Hyena Max",
+        "image": "/Images/characters/hyena_max.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Aquaman 3",
+    "image": "/Images/31.jpg",
+    "releaseDate": "2025-12-12",
+    "rating": "7.5",
+    "story": "Arthur Curry defends Atlantis from new undersea threats. Ancient powers rise to challenge his throne. Epic battles and breathtaking ocean visuals return.",
+    "movieDetails": "Directed by James Wan. Stars Jason Momoa, Amber Heard. Runtime: 2h 20m, Genre: Superhero/Fantasy.",
+    "characters": [
+      {
+        "name": "Aquaman",
+        "image": "/Images/characters/aquaman.jpg"
+      },
+      {
+        "name": "Mera",
+        "image": "/Images/characters/mera.jpg"
+      },
+      {
+        "name": "Orm",
+        "image": "/Images/characters/orm.jpg"
+      },
+      {
+        "name": "Villain Z",
+        "image": "/Images/characters/villain_z.jpg"
+      },
+      {
+        "name": "Atlanna",
+        "image": "/Images/characters/atlanna.jpg"
+      },
+      {
+        "name": "Vulko",
+        "image": "/Images/characters/vulko.jpg"
+      },
+      {
+        "name": "Pirate Max",
+        "image": "/Images/characters/pirate_max.jpg"
+      },
+      {
+        "name": "Ally Kai",
+        "image": "/Images/characters/ally_kai.jpg"
+      },
+      {
+        "name": "Sea Beast",
+        "image": "/Images/characters/sea_beast.jpg"
+      },
+      {
+        "name": "Soldier Rex",
+        "image": "/Images/characters/soldier_rex.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Doctor Strange: Dark Dimension",
+    "image": "/Images/33.jpg",
+    "releaseDate": "2025-08-08",
+    "rating": "8.3",
+    "story": "Doctor Strange journeys into the Dark Dimension. Old spells and forbidden magic threaten the multiverse. A mind-bending battle of sorcery unfolds.",
+    "movieDetails": "Directed by Sam Raimi. Stars Benedict Cumberbatch, Elizabeth Olsen. Runtime: 2h 15m, Genre: Superhero/Fantasy.",
+    "characters": [
+      {
+        "name": "Strange",
+        "image": "/Images/characters/strange.jpg"
+      },
+      {
+        "name": "Wong",
+        "image": "/Images/characters/wong.jpg"
+      },
+      {
+        "name": "Wanda",
+        "image": "/Images/characters/wanda.jpg"
+      },
+      {
+        "name": "Clea",
+        "image": "/Images/characters/clea.jpg"
+      },
+      {
+        "name": "Villain M",
+        "image": "/Images/characters/villain_m.jpg"
+      },
+      {
+        "name": "Ally Rex",
+        "image": "/Images/characters/ally_rex.jpg"
+      },
+      {
+        "name": "Sorcerer Kai",
+        "image": "/Images/characters/sorcerer_kai.jpg"
+      },
+      {
+        "name": "Student Tom",
+        "image": "/Images/characters/student_tom.jpg"
+      },
+      {
+        "name": "Ally Mei",
+        "image": "/Images/characters/ally_mei.jpg"
+      },
+      {
+        "name": "Mystic Leo",
+        "image": "/Images/characters/mystic_leo.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Venom 3",
+    "image": "/Images/36.jpg",
+    "releaseDate": "2025-10-31",
+    "rating": "7.8",
+    "story": "Eddie Brock and Venom face their deadliest symbiote rival yet. Chaos spreads as humanity is caught in the crossfire. Dark humor and brutal action fuel this sequel.",
+    "movieDetails": "Directed by Kelly Marcel. Stars Tom Hardy. Runtime: 2h 10m, Genre: Superhero/Action.",
+    "characters": [
+      {
+        "name": "Eddie",
+        "image": "/Images/characters/eddie.jpg"
+      },
+      {
+        "name": "Venom",
+        "image": "/Images/characters/venom.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Reporter Lea",
+        "image": "/Images/characters/reporter_lea.jpg"
+      },
+      {
+        "name": "Scientist Zoe",
+        "image": "/Images/characters/scientist_zoe.jpg"
+      },
+      {
+        "name": "Detective Rex",
+        "image": "/Images/characters/detective_rex.jpg"
+      },
+      {
+        "name": "Symbiote Leo",
+        "image": "/Images/characters/symbiote_leo.jpg"
+      },
+      {
+        "name": "Friend Kai",
+        "image": "/Images/characters/friend_kai.jpg"
+      },
+      {
+        "name": "Henchman Tim",
+        "image": "/Images/characters/henchman_tim.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Morbius Returns",
+    "image": "/Images/37.jpg",
+    "releaseDate": "2025-11-14",
+    "rating": "7.3",
+    "story": "Dr. Michael Morbius battles his inner monster while facing a stronger foe. His struggle between hero and villain deepens. A dark chapter in Sony’s Marvel universe.",
+    "movieDetails": "Directed by Daniel Espinosa. Stars Jared Leto. Runtime: 2h 0m, Genre: Superhero/Horror.",
+    "characters": [
+      {
+        "name": "Morbius",
+        "image": "/Images/characters/morbius.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Scientist Zoe",
+        "image": "/Images/characters/scientist_zoe.jpg"
+      },
+      {
+        "name": "Friend Leo",
+        "image": "/Images/characters/friend_leo.jpg"
+      },
+      {
+        "name": "Reporter Tim",
+        "image": "/Images/characters/reporter_tim.jpg"
+      },
+      {
+        "name": "Security Kai",
+        "image": "/Images/characters/security_kai.jpg"
+      },
+      {
+        "name": "Doctor Rex",
+        "image": "/Images/characters/doctor_rex.jpg"
+      },
+      {
+        "name": "Mutant Zoe",
+        "image": "/Images/characters/mutant_zoe.jpg"
+      },
+      {
+        "name": "Henchman Max",
+        "image": "/Images/characters/henchman_max.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Eternals 2",
+    "image": "/Images/38.jpg",
+    "releaseDate": "2025-05-30",
+    "rating": "7.7",
+    "story": "The surviving Eternals regroup after cosmic upheaval. A new celestial threat tests their unity and purpose. Gods, heroes, and humans clash in this epic sequel.",
+    "movieDetails": "Directed by Chloé Zhao. Stars Gemma Chan, Richard Madden. Runtime: 2h 35m, Genre: Superhero/Fantasy.",
+    "characters": [
+      {
+        "name": "Sersi",
+        "image": "/Images/characters/sersi.jpg"
+      },
+      {
+        "name": "Ikaris",
+        "image": "/Images/characters/ikaris.jpg"
+      },
+      {
+        "name": "Kingo",
+        "image": "/Images/characters/kingo.jpg"
+      },
+      {
+        "name": "Sprite",
+        "image": "/Images/characters/sprite.jpg"
+      },
+      {
+        "name": "Phastos",
+        "image": "/Images/characters/phastos.jpg"
+      },
+      {
+        "name": "Makkari",
+        "image": "/Images/characters/makkari.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Guardian Leo",
+        "image": "/Images/characters/guardian_leo.jpg"
+      },
+      {
+        "name": "Seer Kai",
+        "image": "/Images/characters/seer_kai.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Hercules (Live Action)",
+    "image": "/Images/39.avif",
+    "releaseDate": "2025-09-20",
+    "rating": "7.6",
+    "story": "The legendary demigod Hercules rises to prove his worth. Trials of strength, heart, and destiny shape his path. A modern retelling of a mythic Disney classic.",
+    "movieDetails": "Directed by Guy Ritchie. Stars Taron Egerton. Runtime: 2h 10m, Genre: Adventure/Fantasy.",
+    "characters": [
+      {
+        "name": "Hercules",
+        "image": "/Images/characters/hercules.jpg"
+      },
+      {
+        "name": "Megara",
+        "image": "/Images/characters/megara.jpg"
+      },
+      {
+        "name": "Hades",
+        "image": "/Images/characters/hades.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Ally Leo",
+        "image": "/Images/characters/ally_leo.jpg"
+      },
+      {
+        "name": "Friend Max",
+        "image": "/Images/characters/friend_max.jpg"
+      },
+      {
+        "name": "Titan Rex",
+        "image": "/Images/characters/titan_rex.jpg"
+      },
+      {
+        "name": "Oracle Zoe",
+        "image": "/Images/characters/oracle_zoe.jpg"
+      },
+      {
+        "name": "Soldier Kai",
+        "image": "/Images/characters/soldier_kai.jpg"
+      },
+      {
+        "name": "Guide Tim",
+        "image": "/Images/characters/guide_tim.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Frozen Earth",
+    "image": "/Images/40.jpg",
+    "releaseDate": "2025-08-30",
+    "rating": "7.3",
+    "story": "An ancient ice age force awakens, freezing the world. A group of explorers fights to restore balance. Survival and sacrifice shape this frozen adventure.",
+    "movieDetails": "Directed by Peter Ramsey. Stars Daisy Ridley. Runtime: 2h 0m, Genre: Sci-Fi/Adventure.",
+    "characters": [
+      {
+        "name": "Elsa",
+        "image": "/Images/characters/elsa.jpg"
+      },
+      {
+        "name": "Anna",
+        "image": "/Images/characters/anna.jpg"
+      },
+      {
+        "name": "Kristoff",
+        "image": "/Images/characters/kristoff.jpg"
+      },
+      {
+        "name": "Olaf",
+        "image": "/Images/characters/olaf.jpg"
+      },
+      {
+        "name": "Villain Ice",
+        "image": "/Images/characters/villain_ice.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Explorer Kai",
+        "image": "/Images/characters/explorer_kai.jpg"
+      },
+      {
+        "name": "Guide Leo",
+        "image": "/Images/characters/guide_leo.jpg"
+      },
+      {
+        "name": "Friend Tim",
+        "image": "/Images/characters/friend_tim.jpg"
+      },
+      {
+        "name": "Scout Zoe",
+        "image": "/Images/characters/scout_zoe.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Encanto 2",
+    "image": "/Images/41.jpg",
+    "releaseDate": "2025-11-23",
+    "rating": "7.9",
+    "story": "The Madrigal family faces a new magical mystery. Mirabel discovers hidden powers within the family’s legacy. Music and magic return in this heartfelt sequel.",
+    "movieDetails": "Directed by Jared Bush, Byron Howard. Voices of Stephanie Beatriz, John Leguizamo. Runtime: 1h 55m, Genre: Animation/Musical.",
+    "characters": [
+      {
+        "name": "Mirabel",
+        "image": "/Images/characters/mirabel.jpg"
+      },
+      {
+        "name": "Abuela",
+        "image": "/Images/characters/abuela.jpg"
+      },
+      {
+        "name": "Luisa",
+        "image": "/Images/characters/luisa.jpg"
+      },
+      {
+        "name": "Isabela",
+        "image": "/Images/characters/isabela.jpg"
+      },
+      {
+        "name": "Villain Max",
+        "image": "/Images/characters/villain_max.jpg"
+      },
+      {
+        "name": "Camilo",
+        "image": "/Images/characters/camilo.jpg"
+      },
+      {
+        "name": "Antonio",
+        "image": "/Images/characters/antonio.jpg"
+      },
+      {
+        "name": "Dolores",
+        "image": "/Images/characters/dolores.jpg"
+      },
+      {
+        "name": "Pepa",
+        "image": "/Images/characters/pepa.jpg"
+      },
+      {
+        "name": "Félix",
+        "image": "/Images/characters/felix.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Wish 2",
+    "image": "/Images/42.jpg",
+    "releaseDate": "2025-12-22",
+    "rating": "7.8",
+    "story": "Asha embarks on a new quest when wishing magic spirals out of control. Star guides her through enchanted realms. A colorful adventure about dreams and destiny.",
+    "movieDetails": "Directed by Chris Buck. Voices of Ariana DeBose, Alan Tudyk. Runtime: 1h 50m, Genre: Animation/Fantasy.",
+    "characters": [
+      {
+        "name": "Asha",
+        "image": "/Images/characters/asha.jpg"
+      },
+      {
+        "name": "Star",
+        "image": "/Images/characters/star.jpg"
+      },
+      {
+        "name": "Guide Leo",
+        "image": "/Images/characters/guide_leo.jpg"
+      },
+      {
+        "name": "Villain Max",
+        "image": "/Images/characters/villain_max.jpg"
+      },
+      {
+        "name": "Ally Kai",
+        "image": "/Images/characters/ally_kai.jpg"
+      },
+      {
+        "name": "Friend Tim",
+        "image": "/Images/characters/friend_tim.jpg"
+      },
+      {
+        "name": "Mentor Zoe",
+        "image": "/Images/characters/mentor_zoe.jpg"
+      },
+      {
+        "name": "Magician Rex",
+        "image": "/Images/characters/magician_rex.jpg"
+      },
+      {
+        "name": "Creature Pia",
+        "image": "/Images/characters/creature_pia.jpg"
+      },
+      {
+        "name": "Scout Max",
+        "image": "/Images/characters/scout_max.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Frozen Legacy",
+    "image": "/Images/43.jpg",
+    "releaseDate": "2025-12-10",
+    "rating": "7.5",
+    "story": "Elsa and Anna uncover the legacy of Arendelle’s first rulers. A buried secret could alter their kingdom forever. Sisterhood and courage guide their journey.",
+    "movieDetails": "Directed by Jennifer Lee. Voices of Idina Menzel, Kristen Bell. Runtime: 1h 55m, Genre: Animation/Fantasy.",
+    "characters": [
+      {
+        "name": "Elsa",
+        "image": "/Images/characters/elsa.jpg"
+      },
+      {
+        "name": "Anna",
+        "image": "/Images/characters/anna.jpg"
+      },
+      {
+        "name": "Kristoff",
+        "image": "/Images/characters/kristoff.jpg"
+      },
+      {
+        "name": "Olaf",
+        "image": "/Images/characters/olaf.jpg"
+      },
+      {
+        "name": "Villain Ice",
+        "image": "/Images/characters/villain_ice.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Explorer Kai",
+        "image": "/Images/characters/explorer_kai.jpg"
+      },
+      {
+        "name": "Guide Leo",
+        "image": "/Images/characters/guide_leo.jpg"
+      },
+      {
+        "name": "Friend Tim",
+        "image": "/Images/characters/friend_tim.jpg"
+      },
+      {
+        "name": "Scout Zoe",
+        "image": "/Images/characters/scout_zoe.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Aladdin 2",
+    "image": "/Images/44.jpg",
+    "releaseDate": "2025-05-18",
+    "rating": "7.4",
+    "story": "Aladdin faces a new villain who seeks the lamp’s magic. With Jasmine and Genie, he must protect Agrabah once more. Love and adventure shine in this sequel.",
+    "movieDetails": "Directed by Guy Ritchie. Stars Mena Massoud, Naomi Scott, Will Smith. Runtime: 2h 5m, Genre: Fantasy/Adventure.",
+    "characters": [
+      {
+        "name": "Aladdin",
+        "image": "/Images/characters/aladdin.jpg"
+      },
+      {
+        "name": "Jasmine",
+        "image": "/Images/characters/jasmine.jpg"
+      },
+      {
+        "name": "Genie",
+        "image": "/Images/characters/genie.jpg"
+      },
+      {
+        "name": "Villain X",
+        "image": "/Images/characters/villain_x.jpg"
+      },
+      {
+        "name": "Abu",
+        "image": "/Images/characters/abu.jpg"
+      },
+      {
+        "name": "Carpet",
+        "image": "/Images/characters/carpet.jpg"
+      },
+      {
+        "name": "Ally Max",
+        "image": "/Images/characters/ally_max.jpg"
+      },
+      {
+        "name": "Guard Kai",
+        "image": "/Images/characters/guard_kai.jpg"
+      },
+      {
+        "name": "Merchant Leo",
+        "image": "/Images/characters/merchant_leo.jpg"
+      },
+      {
+        "name": "Friend Tim",
+        "image": "/Images/characters/friend_tim.jpg"
+      }
+    ]
+  }
+]
